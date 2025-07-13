@@ -18,3 +18,24 @@
 --then I am asked wheather it can be trusted.
 --I say yes
 --and the repository is perfectly added.
+
+--everything is set!
+
+--great!
+
+--Let me go ahead and start reading the problem
+
+--actually, I need to upload the tables.
+
+--there are two.
+
+--the CITY and COUNTRY tables.
+
+--I will use my usual SELECT * table_name
+--and copy paste that into a notepadd ++ file
+--but I used to use another program.
+--notepad?
+--yeah
+
+--it is very long.
+--the table CITY has lots of rows that I am definitely going to take a while breaking in.
