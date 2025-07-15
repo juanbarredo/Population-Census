@@ -62,3 +62,16 @@
 --the first table I will create is CITY.
 
 --I am excited to get that done.  Probably next time.
+
+---------------------------------07 15 2025---------------------------------------
+
+--ok,
+
+--tonight I am planning on creating the CITY table.
+
+--and maybe get started on the other table.
+
+--tried to use the import export wizard but kept getting errors
+--do I have any records of how to do this?
+
+--I am going to have to make sure I get screen shots this time.

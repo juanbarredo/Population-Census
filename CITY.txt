@@ -1,3 +1,4 @@
+ID, NAME, COUNTRYCODE, DISTRICT, POPULATION
 4, Mazar-e-Sharif, AFG, Balkh, 127800
 11, Groningen, NLD, Groningen, 172701
 80, Merlo, ARG, Buenos Aires, 463846
@@ -75,4 +76,5 @@
 1164, Bhilwara, IND, Rajasthan, 183965
 1195, Arrah (Ara), IND, Bihar, 157082
 1201, Cuddalore, IND, Tamil Nadu, 153086
-1203, Dhanbad, IND, Jharkhand, 151789
+1203, Dhanbad, IND, Jharkhand, 151789ID, NAME, COUNTRYCODE, DISTRICT, POPULATION
+ID, NAME, COUNTRYCODE, DISTRICT, POPULATION
