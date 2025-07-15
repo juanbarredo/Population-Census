@@ -39,3 +39,26 @@
 
 --it is very long.
 --the table CITY has lots of rows that I am definitely going to take a while breaking in.
+
+--------------------------------------07 14 2025----------------------------------------
+
+--ok,
+
+--I am going to keep wiorking on the table CITY.
+
+
+--I just finished placing commas on the CITY.txt file which I will now upload into a table using the import wizard
+
+--can't help but feel like I should automate this somehow?
+
+--that's right
+--I forgot I have to make a new database.
+--I will name it Population Census.
+
+--database created.
+
+--next, I need to create the tables.
+
+--the first table I will create is CITY.
+
+--I am excited to get that done.  Probably next time.
