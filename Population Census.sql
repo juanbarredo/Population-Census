@@ -75,3 +75,33 @@
 --do I have any records of how to do this?
 
 --I am going to have to make sure I get screen shots this time.
+
+----------------------------------07 20 2025-------------------------------------
+
+--ok,
+
+--back at it
+
+--let me see I should be able to figure this out like I did last time many times.
+
+--I think I finally figured it out
+--it was really long and tedious
+--but I had to make sure there were not spaces, just commas.
+--so, not like how I am structuring this sentence.
+--but like this,if there is a comma,just no space after it.
+
+--let me call up the table
+
+USE Population_Census;
+SELECT *
+	FROM CITY;
+
+--Ok,
+--perfect.
+
+--how can I call this up again next time I need help?
+--I need to make a notation
+--yeah,
+--I am at a loss as to how to create a resource to remember how to upload tables.
+--I may have to make a video for the next time.
+--and upload that video to my github.
