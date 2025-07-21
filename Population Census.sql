@@ -105,3 +105,12 @@ SELECT *
 --I am at a loss as to how to create a resource to remember how to upload tables.
 --I may have to make a video for the next time.
 --and upload that video to my github.
+
+--------------------------------------07 21 2025------------------------------
+--Alright,
+--got started on the COUNTRY table
+--it is very complicated.
+--this will take a lot of time.
+--dare I say one week?
+--just on the one table?
+--hopefully not.
