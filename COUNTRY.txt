@@ -6,38 +6,38 @@ AND,Andorra,Europe,Southern Europe,468,1278,78000,83.5,1630,NULL,Andorra,Parliam
 ANT,Netherlands Antilles,North America,Caribbean,800,NULL,217000,74.7,1941,NULL,Nederlandse Antillen,Nonmetropolitan,Territory of The Netherlands,Beatrix,33,AN
 ASM,American Samoa,Oceania,Polynesia,199,NULL,68000,75.1,334,NULL,Amerika Samoa,US Territory,George W. Bush,54,AS
 ATG,Antigua and Barbuda,North America,Caribbean,442,1981,68000,70.5,612,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63,AG
-AUS Australia Oceania Australia and New Zealand 7741220 1901 18886000 79.8 351182 392911.0 Australia Constitutional Monarchy, Federation Elisabeth II 135 AU
-BDI Burundi Africa Eastern Africa 27834 1962 6695000 46.2 903 982.0 Burundi/Uburundi Republic Pierre Buyoya 552 BI
-BGD Bangladesh Asia Southern and Central Asia 143998 1971 129155000 60.2 32852 31966.0 Bangladesh Republic Shahabuddin Ahmad 150 BD
-BGR Bulgaria Europe Eastern Europe 110994 1908 8190900 70.9 12178 10169.0 Balgarija Republic Petar Stojanov 539 BG
-BHR Bahrain Asia Middle East 694 1971 617000 73.0 6366 6097.0 Al-Bahrayn Monarchy (Emirate) Hamad ibn Isa al-Khalifa 149 BH
-BHS Bahamas North America Caribbean 13878 1973 307000 71.1 3527 3347.0 The Bahamas Constitutional Monarchy Elisabeth II 148 BS
-BIH Bosnia and Herzegovina Europe Southern Europe 51197 1992 3972000 71.5 2841 NULL Bosna i Hercegovina Federal Republic Ante Jelavic 201 BA
-BLZ Belize North America Central America 22696 1981 241000 70.9 630 616.0 Belize Constitutional Monarchy Elisabeth II 185 BZ
-BMU Bermuda North America North America 53 NULL 65000 76.9 2328 2190.0 Bermuda Dependent Territory of the UK Elisabeth II 191 BM
-BRA Brazil South America South America 8547403 1822 170115000 62.9 776739 804108.0 Brasil Federal Republic Fernando Henrique Cardoso 211 BR
-BRB Barbados North America Caribbean 430 1966 270000 73.0 2223 2186.0 Barbados Constitutional Monarchy Elisabeth II 174 BB
-BRN Brunei Asia Southeast Asia 5765 1984 328000 73.6 11705 12460.0 Brunei Darussalam Monarchy (Sultanate) Haji Hassan al-Bolkiah 538 BN
-BTN Bhutan Asia Southern and Central Asia 47000 1910 2124000 52.4 372 383.0 Druk-Yul Monarchy Jigme Singye Wangchuk 192 BT
-BWA Botswana Africa Southern Africa 581730 1966 1622000 39.3 4834 4935.0 Botswana Republic Festus G. Mogae 204 BW
-CAN Canada North America North America 9970610 1867 31147000 79.4 598862 625626.0 Canada Constitutional Monarchy, Federation Elisabeth II 1822 CA
-CCK Cocos (Keeling) Islands Oceania Australia and New Zealand 14 NULL 600 NULL 0 NULL Cocos (Keeling) Islands Territory of Australia Elisabeth II 2317 CC
-CHE Switzerland Europe Western Europe 41284 1499 7160400 79.6 264478 256092.0 Schweiz/Suisse/Svizzera/Svizra Federation Adolf Ogi 3248 CH
-CHL Chile South America South America 756626 1810 15211000 75.7 72949 75780.0 Chile Republic Ricardo Lagos Escobar 554 CL
-CMR Cameroon Africa Central Africa 475442 1960 15085000 54.8 9174 8596.0 Cameroun/Cameroon Republic Paul Biya 1804 CM
-COG Congo Africa Central Africa 342000 1960 2943000 47.4 2108 2287.0 Congo Republic Denis Sassou-Nguesso 2296 CG
-COK Cook Islands Oceania Polynesia 236 NULL 20000 71.1 100 NULL The Cook Islands Nonmetropolitan Territory of New Zealand Elisabeth II 583 CK
-COM Comoros Africa Eastern Africa 1862 1975 578000 60.0 4401 4361.0 Komori/Comores Republic Azali Assoumani 2295 KM
-CUB Cuba North America Caribbean 110861 1902 11201000 76.2 17843 18862.0 Cuba Socialistic Republic Fidel Castro Ruz 2413 CU
-CXR Christmas Island Oceania Australia and New Zealand 135 NULL 2500 NULL 0 NULL Christmas Island Territory of Australia Elisabeth II 1791 CX
-CYM Cayman Islands North America Caribbean 264 NULL 38000 78.9 1263 1186.0 Cayman Islands Dependent Territory of the UK Elisabeth II 553 KY
-DEU Germany Europe Western Europe 357022 1955 82164700 77.4 2133367 2102826.0 Deutschland Federal Republic Johannes Rau 3068 DE
-DJI Djibouti Africa Eastern Africa 23200 1977 638000 50.8 382 373.0 Djibouti/Jibuti Republic Ismail Omar Guelleh 585 DJ
-DMA Dominica North America Caribbean 751 1978 71000 73.4 256 243.0 Dominica Republic Vernon Shaw 586 DM
-DNK Denmark Europe Nordic Countries 43094 800 5330000 76.5 174099 169264.0 Danmark Constitutional Monarchy Margrethe II 3315 DK
-ECU Ecuador South America South America 283561 1822 12646000 71.1 19770 19769.0 Ecuador Republic Gustavo Noboa Bejarano 594 EC
-EGY Egypt Africa Northern Africa 1001449 1922 68470000 63.3 82710 75617.0 Misr Republic Hosni Mubarak 608 EG
-ERI Eritrea Africa Eastern Africa 117600 1993 3850000 55.8 650 755.0 Ertra Republic Isayas Afewerki [Isaias Afwerki] 652 ER
+AUS,Australia,Oceania,Australia and New Zealand,7741220,1901,18886000,79.8,351182,392911.0,Australia,Constitutional Monarchy,Federation,Elisabeth II,135,AU
+BDI,Burundi,Africa,Eastern Africa,27834,1962,6695000,46.2,903,982.0,Burundi/Uburundi,Republic,Pierre Buyoya,552,BI
+BGD,Bangladesh,Asia,Southern and Central Asia,143998,1971,129155000,60.2,32852,31966.0,Bangladesh,Republic,Shahabuddin Ahmad,150,BD
+BGR,Bulgaria,Europe,Eastern Europe,110994,1908,8190900,70.9,12178,10169.0,Balgarija,Republic,Petar Stojanov,539,BG
+BHR,Bahrain,Asia,Middle East,694,1971,617000,73.0,6366,6097.0,Al-Bahrayn,Monarchy (Emirate),Hamad ibn Isa al-Khalifa,149,BH
+BHS,Bahamas,North America,Caribbean,13878,1973,307000,71.1,3527,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148,BS
+BIH,Bosnia and Herzegovina,Europe,Southern Europe,51197,1992,3972000,71.5,2841,NULL,Bosna i Hercegovina,Federal Republic,Ante Jelavic,201,BA
+BLZ,Belize,North America,Central America,22696,1981,241000,70.9,630,616.0,Belize,Constitutional Monarchy,Elisabeth II,185,BZ
+BMU,Bermuda,North America,North America,53,NULL,65000,76.9,2328,2190.0,Bermuda,Dependent Territory of the UK,Elisabeth II,191,BM
+BRA,Brazil,South America,South America,8547403,1822,170115000,62.9,776739,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211,BR
+BRB,Barbados,North America,Caribbean,430,1966,270000,73.0,2223,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174,BB
+BRN,Brunei,Asia,Southeast Asia,5765,1984,328000,73.6,11705,12460.0,Brunei Darussalam,Monarchy (Sultanate),Haji Hassan al-Bolkiah,538,BN
+BTN,Bhutan,Asia,Southern and Central Asia,47000,1910,2124000,52.4,372,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192,BT
+BWA,Botswana,Africa,Southern Africa,581730,1966,1622000,39.3,4834,4935.0,Botswana,Republic,Festus G. Mogae,204,BW
+CAN,Canada,North America,North America,9970610,1867,31147000,79.4,598862,625626.0,Canada,Constitutional Monarchy Federation,Elisabeth II,1822,CA
+CCK,Cocos (Keeling) Islands,Oceania,Australia and New Zealand,14,NULL,600,NULL,0,NULL,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317,CC
+CHE,Switzerland,Europe,Western Europe,41284,1499,7160400,79.6,264478,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248,CH
+CHL,Chile,South America,South America,756626,1810,15211000,75.7,72949,75780.0,Chile,Republic,Ricardo Lagos Escobar,554,CL
+CMR,Cameroon,Africa,Central Africa,475442,1960,15085000,54.8,9174,8596.0,Cameroun/Cameroon,Republic,Paul Biya,1804,CM
+COG,Congo,Africa,Central Africa,342000,1960,2943000,47.4,2108,2287.0,Congo,Republic,Denis Sassou-Nguesso,2296,CG
+COK,Cook Islands,Oceania,Polynesia,236,NULL,20000,71.1,100,NULL,The Cook Islands,Nonmetropolitan Territory of New Zealand,Elisabeth II,583,CK
+COM,Comoros,Africa,Eastern Africa,1862,1975,578000,60.0,4401,4361.0,Komori/Comores,Republic,Azali Assoumani,2295,KM
+CUB,Cuba,North America,Caribbean,110861,1902,11201000,76.2,17843,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413,CU
+CXR,Christmas Island,Oceania,Australia and New Zealand,135,NULL,2500,NULL,0,NULL,Christmas,Island Territory of Australia,Elisabeth II,1791,CX
+CYM,Cayman Islands,North America,Caribbean,264,NULL,38000,78.9,1263,1186.0,Cayman Islands,Dependent Territory of the UK,Elisabeth II,553,KY
+DEU,Germany,Europe Western,Europe,357022,1955,82164700,77.4,2133367,2102826.0,Deutschland,Federal Republic,Johannes Rau,3068,DE
+DJI,Djibouti,Africa,Eastern Africa,23200,1977,638000,50.8,382,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585,DJ
+DMA,Dominica,North America,Caribbean,751,1978,71000,73.4,256,243.0,Dominica,Republic,Vernon Shaw,586,DM
+DNK,Denmark,Europe,Nordic Countries,43094,800,5330000,76.5,174099,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315,DK
+ECU,Ecuador,South America,South America,283561,1822,12646000,71.1,19770,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594,EC
+EGY,Egypt,Africa,Northern Africa,1001449,1922,68470000,63.3,82710,75617.0,Misr,Republic,Hosni Mubarak,608,EG
+ERI,Eritrea,Africa,Eastern Africa,117600,1993,3850000,55.8,650,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652,ER
 ESH Western Sahara Africa Northern Africa 266000 NULL 293000 49.8 60 NULL As-Sahrawiya Occupied by Marocco Mohammed Abdel Aziz 2453 EH
 EST Estonia Europe Baltic Countries 45227 1991 1439200 69.5 5328 3371.0 Eesti Republic Lennart Meri 3791 EE
 FIN Finland Europe Nordic Countries 338145 1917 5171300 77.4 121914 119833.0 Suomi Republic Tarja Halonen 3236 FI
