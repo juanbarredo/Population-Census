@@ -82,46 +82,46 @@ LSO,Lesotho,Africa,Southern Africa,30355,1966,2153000,50.8,1061,1161.0,Lesotho,C
 LTU,Lithuania,Europe,Baltic Countries,65301,1991,3698500,69.1,10692,9585.0,Lietuva,Republic,Valdas Adamkus,2447,LT
 LVA,Latvia,Europe,Baltic Countries,64589,1991,2424200,68.4,6398,5639.0,Latvija,Republic,Vaira Vike-Freiberga,2434,LV
 MAC,Macao,Asia,Eastern Asia,18,NULL,473000,81.6,5749,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454,MO
-MAR,Morocco,Africa,Northern Africa,446550,1956,28351000,69.1,36124,33514.0,Al-Maghrib,Constitutional,Monarchy Mohammed VI 2486 MA
-MCO Monaco Europe Western Europe 2 1861 34000 78.8 776 NULL Monaco Constitutional Monarchy Rainier III 2695 MC
-MDA Moldova Europe Eastern Europe 33851 1991 4380000 64.5 1579 1872.0 Moldova Republic Vladimir Voronin 2690 MD
-MDG Madagascar Africa Eastern Africa 587041 1960 15942000 55.0 3750 3545.0 Madagasikara/Madagascar Federal Republic Didier Ratsiraka 2455 MG
-MDV Maldives Asia Southern and Central Asia 298 1965 286000 62.2 199 NULL Dhivehi Raajje/Maldives Republic Maumoon Abdul Gayoom 2463 MV
-MHL Marshall Islands Oceania Micronesia 181 1990 64000 65.5 97 NULL Marshall Islands/Majol Republic Kessai Note 2507 MH
-MKD Macedonia Europe Southern Europe 25713 1991 2024000 73.8 1694 1915.0 Makedonija Republic Boris Trajkovski 2460 MK
-MLT Malta Europe Southern Europe 316 1964 380200 77.9 3512 3338.0 Malta Republic Guido de Marco 2484 MT
-MMR Myanmar Asia Southeast Asia 676578 1948 45611000 54.9 180375 171028.0 Myanma Pye Republic kenraali Than Shwe 2710 MM
-MNG Mongolia Asia Eastern Asia 1566500 1921 2662000 67.3 1043 933.0 Mongol Uls Republic Natsagiin Bagabandi 2696 MN
-MNP Northern Mariana Islands Oceania Micronesia 464 NULL 78000 75.5 0 NULL Northern Mariana Islands Commonwealth of the US George W. Bush 2913 MP
-MSR Montserrat North America Caribbean 102 NULL 11000 78.0 109 NULL Montserrat Dependent Territory of the UK Elisabeth II 2697 MS
-MTQ Martinique North America Caribbean 1102 NULL 395000 78.3 2731 2559.0 Martinique Overseas Department of France Jacques Chirac 2508 MQ
-MUS Mauritius Africa Eastern Africa 2040 1968 1158000 71.0 4251 4186.0 Mauritius Republic Cassam Uteem 2511 MU
-MWI Malawi Africa Eastern Africa 118484 1964 10925000 37.6 1687 2527.0 Malawi Republic Bakili Muluzi 2462 MW
-MYS Malaysia Asia Southeast Asia 329758 1957 22244000 70.8 69213 97884.0 Malaysia Constitutional Monarchy, Federation Salahuddin Abdul Aziz Shah Alhaj 2464 MY
-MYT Mayotte Africa Eastern Africa 373 NULL 149000 59.5 0 NULL Mayotte Territorial Collectivity of France Jacques Chirac 2514 YT
-NAM Namibia Africa Southern Africa 824292 1990 1726000 42.5 3101 3384.0 Namibia Republic Sam Nujoma 2726 NA
-NER Niger Africa Western Africa 1267000 1960 10730000 41.3 1706 1580.0 Niger Republic Mamadou Tandja 2738 NE
-NFK Norfolk Island Oceania Australia and New Zealand 36 NULL 2000 NULL 0 NULL Norfolk Island Territory of Australia Elisabeth II 2806 NF
-NGA Nigeria Africa Western Africa 923768 1960 111506000 51.6 65707 58623.0 Nigeria Federal Republic Olusegun Obasanjo 2754 NG
-NIU Niue Oceania Polynesia 260 NULL 2000 NULL 0 NULL Niue Nonmetropolitan Territory of New Zealand Elisabeth II 2805 NU
-NLD Netherlands Europe Western Europe 41526 1581 15864000 78.3 371362 360478.0 Nederland Constitutional Monarchy Beatrix 5 NL
-NOR Norway Europe Nordic Countries 323877 1905 4478500 78.7 145895 153370.0 Norge Constitutional Monarchy Harald V 2807 NO
-NPL Nepal Asia Southern and Central Asia 147181 1769 23930000 57.8 4768 4837.0 Nepal Constitutional Monarchy Gyanendra Bir Bikram 2729 NP
-NRU Nauru Oceania Micronesia 21 1968 12000 60.8 197 NULL Naoero/Nauru Republic Bernard Dowiyogo 2728 NR
-NZL New Zealand Oceania Australia and New Zealand 270534 1907 3862000 77.8 54669 64960.0 New Zealand/Aotearoa Constitutional Monarchy Elisabeth II 3499 NZ
-PAK Pakistan Asia Southern and Central Asia 796095 1947 156483000 61.1 61289 58549.0 Pakistan Republic Mohammad Rafiq Tarar 2831 PK
-PCN Pitcairn Oceania Polynesia 49 NULL 50 NULL 0 NULL Pitcairn Dependent Territory of the UK Elisabeth II 2912 PN
-PHL Philippines Asia Southeast Asia 300000 1946 75967000 67.5 65107 82239.0 Pilipinas Republic Gloria Macapagal-Arroyo 766 PH
-PLW Palau Oceania Micronesia 459 1994 19000 68.6 105 NULL Belau/Palau Republic Kuniwo Nakamura 2881 PW
-PNG Papua New Guinea Oceania Melanesia 462840 1975 4807000 63.1 4988 6328.0 Papua New Guinea/Papua Niugini Constitutional Monarchy Elisabeth II 2884 PG
-POL Poland Europe Eastern Europe 323250 1918 38653600 73.2 151697 135636.0 Polska Republic Aleksander Kwasniewski 2928 PL
-PRI Puerto Rico North America Caribbean 8875 NULL 3869000 75.6 34100 32100.0 Puerto Rico Commonwealth of the US George W. Bush 2919 PR
-PSE Palestine Asia Middle East 6257 NULL 3101000 71.4 4173 NULL Filastin Autonomous Area Yasser (Yasir) Arafat 4074 PS
-QAT Qatar Asia Middle East 11000 1971 599000 72.4 9472 8920.0 Qatar Monarchy Hamad ibn Khalifa al-Thani 2973 QA
-RUS Russian Federation Europe Eastern Europe 17075400 1991 146934000 67.2 276608 442989.0 Rossija Federal Republic Vladimir Putin 3580 RU
-RWA Rwanda Africa Eastern Africa 26338 1962 7733000 39.3 2036 1863.0 Rwanda/Urwanda Republic Paul Kagame 3047 RW
-SDN Sudan Africa Northern Africa 2505813 1956 29490000 56.6 10162 NULL As-Sudan Islamic Republic Omar Hassan Ahmad al-Bashir 3225 SD
-SGP Singapore Asia Southeast Asia 618 1965 3567000 80.1 86503 96318.0 Singapore/Singapura/Xinjiapo/Singapur Republic Sellapan Rama Nathan 3208 SG
+MAR,Morocco,Africa,Northern Africa,446550,1956,28351000,69.1,36124,33514.0,Al-Maghrib,Constitutional,Monarchy Mohammed VI,2486,MA
+MCO,Monaco,Europe,Western Europe,2,1861,34000,78.8,776,NULL,Monaco,Constitutional Monarchy,Rainier III,2695,MC
+MDA,Moldova,Europe,Eastern Europe,33851,1991,4380000,64.5,1579,1872.0,Moldova,Republic,Vladimir Voronin,2690,MD
+MDG,Madagascar,Africa,Eastern Africa,587041,1960,15942000,55.0,3750,3545.0,Madagasikara/Madagascar,Federal Republic,Didier Ratsiraka,2455,MG
+MDV,Maldives,Asia,Southern and Central Asia,298,1965,286000,62.2,199,NULL,Dhivehi Raajje/Maldives,Republic,Maumoon Abdul Gayoom,2463,MV
+MHL,Marshall Islands,Oceania,Micronesia,181,1990,64000,65.5,97,NULL,Marshall Islands/Majol,Republic,Kessai Note,2507,MH
+MKD,Macedonia,Europe,Southern Europe,25713,1991,2024000,73.8,1694,1915.0,Makedonija,Republic,Boris Trajkovski,2460,MK
+MLT,Malta,Europe,Southern Europe,316,1964,380200,77.9,3512,3338.0,Malta,Republic,Guido de Marco,2484,MT
+MMR,Myanmar,Asia,Southeast Asia,676578,1948,45611000,54.9,180375,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710,MM
+MNG,Mongolia,Asia,Eastern Asia,1566500,1921,2662000,67.3,1043,933.0,Mongol Uls,Republic,Natsagiin Bagabandi,2696,MN
+MNP,Northern Mariana Islands,Oceania,Micronesia,464,NULL,78000,75.5,0,NULL,Northern Mariana Islands,Commonwealth of the US,George W. Bush,2913,MP
+MSR,Montserrat,North America,Caribbean,102,NULL,11000,78.0,109,NULL,Montserrat,Dependent Territory of the UK,Elisabeth II,2697,MS
+MTQ,Martinique,North America,Caribbean,1102,NULL,395000,78.3,2731,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508,MQ
+MUS,Mauritius,Africa,Eastern Africa,2040,1968,1158000,71.0,4251,4186.0,Mauritius,Republic,Cassam Uteem,2511,MU
+MWI,Malawi,Africa,Eastern Africa,118484,1964,10925000,37.6,1687,2527.0,Malawi,Republic,Bakili Muluzi,2462,MW
+MYS,Malaysia,Asia,Southeast Asia,329758,1957,22244000,70.8,69213,97884.0,Malaysia,Constitutional Monarchy (Federation),Salahuddin Abdul Aziz Shah Alhaj,2464,MY
+MYT,Mayotte,Africa,Eastern Africa,373,NULL,149000,59.5,0,NULL,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514,YT
+NAM,Namibia,Africa,Southern Africa,824292,1990,1726000,42.5,3101,3384.0,Namibia,Republic,Sam Nujoma,2726,NA
+NER,Niger,Africa,Western Africa,1267000,1960,10730000,41.3,1706,1580.0,Niger,Republic,Mamadou Tandja,2738,NE
+NFK,Norfolk Island,Oceania,Australia and New Zealand,36,NULL,2000,NULL,0,NULL,Norfolk,Island Territory of Australia,Elisabeth II,2806,NF
+NGA,Nigeria,Africa,Western Africa,923768,1960,111506000,51.6,65707,58623.0,Nigeria,Federal Republic,Olusegun Obasanjo,2754,NG
+NIU,Niue,Oceania,Polynesia,260,NULL,2000,NULL,0,NULL,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805,NU
+NLD,Netherlands,Europe,Western Europe,41526,1581,15864000,78.3,371362,360478.0,Nederland Constitutional,Monarchy Beatrix,5,NL
+NOR,Norway,Europe,Nordic Countries,323877,1905,4478500,78.7,145895,153370.0,Norge,Constitutional Monarchy,Harald V,2807,NO
+NPL,Nepal,Asia,Southern and Central Asia,147181,1769,23930000,57.8,4768,4837.0,Nepal,Constitutional Monarchy,Gyanendra Bir Bikram,2729,NP
+NRU,Nauru,Oceania,Micronesia,21,1968,12000,60.8,197,NULL,Naoero/Nauru,Republic,Bernard Dowiyogo,2728,NR
+NZL,New Zealand,Oceania,Australia and New Zealand,270534,1907,3862000,7.8,54669,64960.0,New Zealand/Aotearoa,Constitutional Monarchy,Elisabeth II,3499,NZ
+PAK,Pakistan,Asia,Southern and Central Asia,796095,1947,156483000,61.1,61289,58549.0,Pakistan,Republic,Mohammad Rafiq Tarar,2831,PK
+PCN,Pitcairn,Oceania,Polynesia,49,NULL,50,NULL,0,NULL,Pitcairn,Dependent Territory of the UK,Elisabeth II,2912,PN
+PHL,Philippines,Asia,Southeast Asia,300000,1946,75967000,67.5,65107,82239.0,Pilipinas,Republic,Gloria Macapagal-Arroyo,766,PH
+PLW,Palau,Oceania,Micronesia,459,1994,19000,68.6,105,NULL,Belau/Palau,Republic,Kuniwo Nakamura,2881,PW
+PNG,Papua,New Guinea,Oceania,Melanesia,462840,1975,4807000,63.1,4988,6328.0,Papua,New Guinea/Papua Niugini,Constitutional Monarchy,Elisabeth II,2884,PG
+POL,Poland,Europe Eastern,Europe,323250,1918,38653600,73.2,151697,135636.0,Polska,Republic,Aleksander Kwasniewski,2928,PL
+PRI,Puerto Rico,North America,Caribbean,8875,NULL,3869000,75.6,34100,32100.0,Puerto Rico,Commonwealth of the US,George W. Bush,2919,PR
+PSE,Palestine,Asia,Middle East,6257,NULL,3101000,71.4,4173,NULL,Filastin,Autonomous Area,Yasser (Yasir) Arafat,4074,PS
+QAT,Qatar,Asia,Middle East,11000,1971,599000,72.4,9472,8920.0,Qatar,Monarchy,Hamad ibn Khalifa al-Thani,2973,QA
+RUS,Russian Federation,Europe,Eastern Europe,17075400,1991,146934000,67.2,276608,442989.0,Rossija,Federal Republic,Vladimir Putin,3580,RU
+RWA,Rwanda,Africa,Eastern Africa,26338,1962,7733000,39.3,2036,1863.0,Rwanda/Urwanda,Republic,Paul Kagame,3047,RW
+SDN,Sudan,Africa,Northern Africa,2505813,1956,29490000,56.6,10162,NULL,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225,SD
+SGP,Singapore,Asia,Southeast Asia 618 1965 3567000 80.1 86503 96318.0 Singapore/Singapura/Xinjiapo/Singapur Republic Sellapan Rama Nathan 3208 SG
 SGS South Georgia and the South Sandwich Islands Antarctica Antarctica 3903 NULL 0 NULL 0 NULL South Georgia and the South Sandwich Islands Dependent Territory of the UK Elisabeth II NULL GS
 SHN Saint Helena Africa Western Africa 314 NULL 6000 76.8 0 NULL Saint Helena Dependent Territory of the UK Elisabeth II 3063 SH
 SJM Svalbard and Jan Mayen Europe Nordic Countries 62422 NULL 3200 NULL 0 NULL Svalbard og Jan Mayen Dependent Territory of Norway Harald V 938 SJ
