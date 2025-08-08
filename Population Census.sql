@@ -114,3 +114,16 @@ SELECT *
 --dare I say one week?
 --just on the one table?
 --hopefully not.
+
+
+---------------------------------08 07 2025-----------------------------------------------
+USE Population_Census;
+SELECT *
+	FROM COUNTRY;
+
+--Hving a hard time uploading the COUNTRY table
+
+--I had the same problem last time with the CITY table but I got it going
+--I forgot how I did it.
+
+--next time I will study the microsoft webpage on the topic
