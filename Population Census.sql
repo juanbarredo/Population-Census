@@ -127,3 +127,12 @@ SELECT *
 --I forgot how I did it.
 
 --next time I will study the microsoft webpage on the topic
+
+-------------------08 11 2025----------------------------
+--I think it is impossible to upload here but I have been mindmapping the 
+--"https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/connect-to-a-flat-file-data-source-sql-server-import-and-export-wizard?view=sql-server-ver17"
+--page in order to understand the flat file import export wizard.
+
+--I didn't expect much to be honest but I have absolutely nailed it and learned too much!
+
+--it really does pay to break things down slowly and methodically.
