@@ -136,3 +136,20 @@ SELECT *
 --I didn't expect much to be honest but I have absolutely nailed it and learned too much!
 
 --it really does pay to break things down slowly and methodically.
+
+-------------------------08 21 2025------------------------------------------
+--took a much needed recalibration break
+--I am back at learning how the import export wizard works
+--the next time I work on this I will fire up microsoft sql server management studio and see if I can import the last table to get going on exploring joins.
+
+--I am very excited to get this going.
+
+--mindmapping is defininitely helping
+--I wish I could upload it here
+--but also, i need to make better mindmaps
+--they are very challenging.
+
+--I may need to spend more time on each mindmap
+--like I may need to scratch around before setting down a branch in the mindmap.
+
+--
