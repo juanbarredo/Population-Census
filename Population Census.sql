@@ -154,9 +154,6 @@ SELECT *
 --like I may need to scratch around before setting down a branch in the mindmap.
 
 --
->>>>>>> 6c768a57063fbbeeb09e067a9f7b1aadc71987d3
-
-<<<<<<< HEAD
 ------------------------------08 24 2025-----------------------------
 
 --i thought I had coppied the error but I didn't
@@ -170,4 +167,3 @@ SELECT *
 
 --but an article I ran into says that weird things happen all the time
 --and just to try a bunch of things until it works.
-=======
