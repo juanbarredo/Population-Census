@@ -127,3 +127,17 @@ SELECT *
 --I forgot how I did it.
 
 --next time I will study the microsoft webpage on the topic
+
+------------------------------08 24 2025-----------------------------
+
+--i thought I had coppied the error but I didn't
+
+--i am stuck trying to do what I consider to be an easy thing
+--importing a table
+--it seems like I have to choose some other source that isn't the same as the destination
+--next time I may just choose another source altogether to make it work?
+
+--but I don't think i have ever had to do it this way?
+
+--but an article I ran into says that weird things happen all the time
+--and just to try a bunch of things until it works.
