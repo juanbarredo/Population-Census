@@ -128,6 +128,35 @@ SELECT *
 
 --next time I will study the microsoft webpage on the topic
 
+
+-------------------08 11 2025----------------------------
+--I think it is impossible to upload here but I have been mindmapping the 
+--"https://learn.microsoft.com/en-us/sql/integration-services/import-export-data/connect-to-a-flat-file-data-source-sql-server-import-and-export-wizard?view=sql-server-ver17"
+--page in order to understand the flat file import export wizard.
+
+--I didn't expect much to be honest but I have absolutely nailed it and learned too much!
+
+--it really does pay to break things down slowly and methodically.
+
+-------------------------08 21 2025------------------------------------------
+--took a much needed recalibration break
+--I am back at learning how the import export wizard works
+--the next time I work on this I will fire up microsoft sql server management studio and see if I can import the last table to get going on exploring joins.
+
+--I am very excited to get this going.
+
+--mindmapping is defininitely helping
+--I wish I could upload it here
+--but also, i need to make better mindmaps
+--they are very challenging.
+
+--I may need to spend more time on each mindmap
+--like I may need to scratch around before setting down a branch in the mindmap.
+
+--
+>>>>>>> 6c768a57063fbbeeb09e067a9f7b1aadc71987d3
+
+<<<<<<< HEAD
 ------------------------------08 24 2025-----------------------------
 
 --i thought I had coppied the error but I didn't
@@ -141,3 +170,4 @@ SELECT *
 
 --but an article I ran into says that weird things happen all the time
 --and just to try a bunch of things until it works.
+=======
