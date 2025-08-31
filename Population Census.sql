@@ -167,3 +167,26 @@ SELECT *
 
 --but an article I ran into says that weird things happen all the time
 --and just to try a bunch of things until it works.
+
+---------------------------08 31 2025-------------------------------------------------
+
+--"The value could not be converted because of a potential loss of data."
+
+--I have decided to start breaking down the error I am getting.
+--I read over the version I uploaded to my github and read over it.
+--I found an interesting thing to do an internet search on.
+--the quote line 173.
+--
+--i think i have to match the data types better.
+
+--let me get to that screen and do a google search on that screen.
+--that screen's name.
+--how to change data types.
+
+--I think I should actually focus on why this isn't working simply as a Flat File input.
+
+--that could solve all my problems.
+
+--I will focus on this.
+
+--CODE,NAME,CONTINENT,REGION,SURFACEAREA,INDEPYEAR,POPULATION,LIFEEXPENTANCY,GNP,GNPOLD,LOCALNAME,GOVERNMENTFORM,HEADOFSTATE,CAPITAL,CODE2
