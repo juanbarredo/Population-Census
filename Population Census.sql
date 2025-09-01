@@ -190,3 +190,30 @@ SELECT *
 --I will focus on this.
 
 --CODE,NAME,CONTINENT,REGION,SURFACEAREA,INDEPYEAR,POPULATION,LIFEEXPENTANCY,GNP,GNPOLD,LOCALNAME,GOVERNMENTFORM,HEADOFSTATE,CAPITAL,CODE2
+
+-----------------------------------09 01 2025-----------------------------------------------
+
+--I am going to try and copy/paste the country.csv file into google sheets.
+
+--in the microsoft website, it starts with an excel file.csv which is something that I should not have to worry about
+--but let me see.
+
+--OK,
+
+--immedately may have ran into a possible next solution.
+--I need to clean the data further.
+
+--this will take some time
+
+--hopefully this solves it.
+
+--i will solve or clean this data in the notepad or notepadd ++ app
+
+--Ok,
+
+--still didnt' seem to work
+--I do think I cleaned up the data better
+
+--I need to do a bit more clean up before I continue cleaning up data.
+
+--yeah, this is going to take awhile
