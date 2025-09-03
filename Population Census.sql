@@ -217,3 +217,40 @@ SELECT *
 --I need to do a bit more clean up before I continue cleaning up data.
 
 --yeah, this is going to take awhile
+
+-----------------------------09 02 2025-------------------------------------------------
+
+--heard back from the crusieship company.  they don't want me.
+
+--they did say they wanted someone to be good at PowerBI
+
+
+--yeah google sheets takes forever to open on this virtual PC
+--I almost want to restart it with more ram
+
+
+--I seem to be having the most basic of prblems.
+--
+
+--ok, I am finally able to get the Flat File import wizard to break the columns down correctly
+
+--the NULL stuff is still a problem
+
+--I think I do have to follow those weird table definitions where YEAR is a VARCHAR() so that it can handle
+--NULL?
+
+--why can't it just read it as NULL?
+--the difference between an empty cell and NULL.
+
+--weird.
+
+--well, we are getting to the end of this pomodoro
+--but I am absolutely sold on using Excel or Google Sheets to preview data before uploading it here to MSSQL.
+
+--it helps with the visualization aspect.
+
+--yeah, I quickly changed the column type on Google Sheets to TEXT where there were NULLS present instead of NUMBER and the error messages went away
+--well, this is certainly a very incomplete way of handling this I think
+--but it is the way that they on HackerRank .com are handling it as well.
+--there has to be a better way though.
+--I may need to do a deep dive on NULL values.
