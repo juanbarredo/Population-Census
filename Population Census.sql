@@ -254,3 +254,37 @@ SELECT *
 --but it is the way that they on HackerRank .com are handling it as well.
 --there has to be a better way though.
 --I may need to do a deep dive on NULL values.
+
+--------------------------09 04 2025------------------------------------------------
+
+--For now I will go ahead and make it work since I am able to make it work.
+
+--I believe all I have to do now is to copy/paste the format in hacker rank dot com
+
+--oh, no.
+
+--the hackerrank website is down
+--people are fhreshly posting about it from 10 hours ago
+--le sigh.
+--the white screen problem
+
+--I am unsure how to proceed
+
+--I really do need that roadmap
+--it is their problem after all
+
+--maybe I can work on something else next?
+
+--something that I can post on github
+
+--Maybe I can start thinking about accounting database architecture.
+
+--well,
+--I tried sending hacker rank a message
+--I don't know if it got through.
+--this could be bad
+--but all we can do is see about moving on.
+
+--if still frozen next time
+--I will move on to accounting data base.
+
