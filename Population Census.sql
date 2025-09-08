@@ -117,9 +117,9 @@ SELECT *
 
 
 ---------------------------------08 07 2025-----------------------------------------------
-USE Population_Census;
-SELECT *
-	FROM COUNTRY;
+--USE Population_Census;
+--SELECT *
+--	FROM COUNTRY;
 
 --Hving a hard time uploading the COUNTRY table
 
@@ -287,4 +287,61 @@ SELECT *
 
 --if still frozen next time
 --I will move on to accounting data base.
+
+------------------------------------09 08 2025--------------------------------
+
+--gosh, so many obstacles
+--but I at least managed to copy/paste a picture of the table layout.
+
+--I will now try to upload the COUNTRY table using the import/export wizard.
+
+--nice!
+--I think I finally got it.
+
+--I am glad to have been able to stick with this
+
+--there are still a few things that I have to work on
+--like, why couldn't I make it VARCHAR2(9) for GNPOLD.
+--I could only do VARCHAR(50)
+
+--either way, glad to be here.
+--let's see where this goes.
+
+USE Population_Census;
+SELECT  *
+	FROM COUNTRY;
+
+--NICE!
+--it is showing up and everything.
+
+--now, what was the question they wanted?
+
+--nice!
+--it looks like they fixed it.
+
+--let me see,
+--the question was
+
+--"Given the CITY and COUNTRY tables,
+--query the sum of the populations of all cities 
+--where the CONTINENT is 'Asia'.
+
+--Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+
+--well, this is exciting.
+
+--I guess I want to join them first.
+
+USE Population_Census;
+SELECT COUNTRY.*, CITY.*
+FROM COUNTRY JOIN CITY
+ON CITY.COUNTRYCODE = COUNTRY.CODE;
+
+--ok!
+--at least I got a join going.
+--here I need to revisit which type of JOIN is the best and know why.
+
+--little by little it will come together.
+
+
 
