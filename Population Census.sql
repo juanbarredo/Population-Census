@@ -92,9 +92,9 @@
 
 --let me call up the table
 
-USE Population_Census;
-SELECT *
-	FROM CITY;
+--USE Population_Census;
+--SELECT *
+--	FROM CITY;
 
 --Ok,
 --perfect.
@@ -307,9 +307,9 @@ SELECT *
 --either way, glad to be here.
 --let's see where this goes.
 
-USE Population_Census;
-SELECT  *
-	FROM COUNTRY;
+--USE Population_Census;
+--SELECT  *
+--	FROM COUNTRY;
 
 --NICE!
 --it is showing up and everything.
@@ -332,10 +332,10 @@ SELECT  *
 
 --I guess I want to join them first.
 
-USE Population_Census;
-SELECT COUNTRY.*, CITY.*
-FROM COUNTRY JOIN CITY
-ON CITY.COUNTRYCODE = COUNTRY.CODE;
+--USE Population_Census;
+--SELECT COUNTRY.*, CITY.*
+--FROM COUNTRY JOIN CITY
+--ON CITY.COUNTRYCODE = COUNTRY.CODE;
 
 --ok!
 --at least I got a join going.
@@ -343,5 +343,82 @@ ON CITY.COUNTRYCODE = COUNTRY.CODE;
 
 --little by little it will come together.
 
+----------------------------------09 09 2025-------------------------------------------------
 
+--Alright!
 
+--super happy to be this far along.
+
+--Next step is for me to
+
+--let me get a result set where the country code is "Asia"
+
+--ok,
+--I see from the result set I already have that there are "CONTINENT" with name "Asia"
+
+--let me craft a query.
+
+--USE Population_Census;
+--SELECT COUNTRY.*, CITY.*
+--	FROM COUNTRY JOIN CITY
+--	ON CITY.COUNTRYCODE = COUNTRY.CODE
+--	WHERE CONTINENT = 'Asia';
+
+--my result set is so interesting
+--and I do see that I need to review some basic linear algebra
+--I see many repeated values.
+
+--working on this level, the level to go back and figure out why there are repeated values
+--is currently beyond me.
+
+--I do understand that this is because of linear algebra rules but forget exactly why.
+
+--I will next work on just showing the 
+--"query the sum of the populations of all cities"
+
+--ok, so now I see how I will need to get rid of duplicates.
+
+--let me just check if these duplicates aren't  from data entry errors
+
+--USE Population_Census;
+--SELECT *
+--	FROM COUNTRY;
+
+--The above query shows me that there aren't duplicates.
+--well, the result set is small enough for me not to need to do a specific query where I do a query to check for duplicates.
+
+--next let me see
+
+--USE Population_Census;
+--SELECT CITY.NAME
+--	FROM COUNTRY JOIN CITY
+--	ON CITY.COUNTRYCODE = COUNTRY.CODE
+--	WHERE CONTINENT = 'Asia';
+
+--wow, super weird.
+--the result set from the query in lines 392 to 396 is not showing duplicates.
+
+--this is definitely because of linear algebra math, le sigh.
+--too much for me right now.
+
+--ok,
+--then I should be able to sum 
+
+--USE Population_Census;
+--SELECT CITY.POPULATION
+--	FROM COUNTRY JOIN CITY
+--	ON CITY.COUNTRYCODE = COUNTRY.CODE
+--	WHERE CONTINENT = 'Asia';
+
+USE Population_Census;
+SELECT SUM(CITY.POPULATION) AS 'SUM(CITY.POPULATION)'
+	FROM COUNTRY JOIN CITY
+	ON CITY.COUNTRYCODE = COUNTRY.CODE
+	WHERE CONTINENT = 'Asia';
+
+--CONGRATULATION!
+
+--I solved it
+--finally.
+
+--I need to get or I need to be able to expect the result set of joins better as well as which joins to use.
